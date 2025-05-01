@@ -23,3 +23,6 @@ I'm a first year student at Carleton University and part of Shopify's Dev Degree
 - Built an e-commerce platform using Ruby on Rails
 - Created a Shopify-like merchant store throughout the Training Path BED course
 - [View Pull Request](https://github.com/DevDegree/rails-store-myabiagi/pull/7)
+
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=myabiagi&theme=dark&hide_border=false)<br/>
