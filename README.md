@@ -4,7 +4,7 @@
 I'm a first year student at Carleton University and part of Shopify's Dev Degree 2024 Cohort. I'll be starting on the Merchant Experience team this May! ✨
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/myabiagi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mya-biagi/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mya.biagi@shopify.com) 
 
 ## 💻 Tech Stack
